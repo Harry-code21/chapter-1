@@ -1,2 +1,3 @@
-# chapter-1
-revision of chapter 1 ....python
+#python all chapters..
+revise all chapters at a sight....
+now or Never 
